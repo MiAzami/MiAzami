@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MiAzami
-Project Senang-Senang // Project Gabut // 
-Prefer Helio-G99, Sometimes Universal
-yh, Enjoy!
+- Project Senang-Senang // Project Gabut // 
+- Prefer Helio-G99, Sometimes Universal 
+- yh, Enjoy my Modules!
 
 <!---
 MiAzami/MiAzami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
